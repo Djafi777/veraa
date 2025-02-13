@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+div {
+    font-family: "Exo 2", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    background: rgba(187, 44, 175, 0.733) ;
+    width: 350px;
+    height: 400px;
+    border-radius: 15px;
+    background-image: url('./1679694558_bogatyr-club-p-rozovii-zadnii-fon-foni-vkontakte-2.png');
+}
+h1 {
+    padding: 50px 0 0 0;
+    text-align: center;
+    color: floralwhite;
+}
+
+img {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+}
+
+h2 {
+    text-align: center;
+    color: #fff;
+}
